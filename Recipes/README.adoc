@@ -1,0 +1,15 @@
+= Malkavian Madness Kitchen
+
+Welcome to the Malkavian Madness Kitchen! Here, you can find a variety of delicious recipes — Straight from the Madness Network.
+
+Click on a recipe below to get started.
+
+== Recipes
+
+* link:./Apple-Cinnamon_Pancakes_with_Vanilla.adoc[Apple-Cinnamon Pancakes with Vanilla]
+* link:./Härkis_Stew.adoc[Härkis Stew]
+* link:./Parmesan_Roasted_Vegetable_Medley.adoc[Parmesan Roasted Vegetable Medley]
+* link:./Pear_and_Hazelnut_Oat_Crumble.adoc[Pear and Hazelnut Oat Crumble]
+* link:./quorn_mango_curry_wok.adoc[Quorn Mango Curry Wok]
+* link:./spicy_hot_lentil_wok_sauce.adoc[Spicy Hot Lentil Wok Sauce]
+* link:./Tofu_Parmesan_Bake.adoc[Tofu Parmesan Bake]
