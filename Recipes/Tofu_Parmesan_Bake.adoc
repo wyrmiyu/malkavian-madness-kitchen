@@ -1,0 +1,48 @@
+= Tofu Parmesan Bake Recipe
+
+== Ingredients
+
+[width="100%",cols=">1,<3,>1,<3",grid="none",frame="none",options="header", font="Arial", size="10pt"]
+|===
+| 1.5 to 2 kg | Tofu | |
+| 1.8 liters | Arrabbiata Sauce | |
+| 1 kg | Pasta | |
+| 100 grams | Fresh Basil | |
+| 400 grams | Fresh Spinach | | Dried Oregano
+| 600 grams | Mozzarella Cheese | | Salt
+| 10-12 cloves | Garlic | | Pepper
+| 3-4 | medium-sized Onions | (Optional) | Cayenne Pepper
+| 100 ml | Olive Oil | (Optional) | Hot Paprika
+| 150 grams | Bread Crumbs | (Optional) | Fresh or Dried Chili
+|===
+
+== Instructions
+
+. **Preparation**
+    a. Preheat your oven to 180°C.
+    b. Drain and press tofu to remove excess water, then slice it into thin pieces.
+    c. Finely chop onions and garlic.
+
+. **Cook Tofu**
+    a. In a large pan, heat some olive oil over medium heat.
+    b. Sauté tofu slices until golden on both sides, seasoning with salt, pepper, and oregano.
+    c. Set tofu aside once cooked.
+
+. **Cook Vegetables**
+    a. Using the same pan, sauté onions and garlic until translucent.
+    b. Add spinach and cook until it wilts.
+
+. **Assemble the Bake**
+    a. In a large baking dish, spread a layer of arrabbiata sauce.
+    b. Add a layer of cooked pasta.
+    c. Follow with a layer of sautéed tofu, the onion-spinach mixture, and a sprinkle of Parmesan and mozzarella cheese.
+    d. Repeat the layers until all ingredients are used, ending with a layer of cheese and breadcrumbs on top.
+
+. **Baking**
+    a. Cover the baking dish with foil.
+    b. Bake for 30 minutes, then remove the foil.
+    c. Continue baking for another 10-15 minutes until the top is golden.
+
+. **Serving and Storing**
+    a. Let the bake cool before cutting into portions.
+    b. Serve hot. This dish can be frozen for future meals.

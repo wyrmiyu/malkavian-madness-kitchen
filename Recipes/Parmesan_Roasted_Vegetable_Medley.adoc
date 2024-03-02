@@ -1,0 +1,39 @@
+= Parmesan Roasted Vegetable Medley
+
+== Ingredients
+[font-family="sans-serif", fontsize="10pt", options="compact"]
+[width="100%",cols=">1,<3,>1,<3",grid="none",frame="none"]
+|===
+| 1      | Medium-sized cauliflower |         |
+| 2      | Red onions, sliced       | 2 tsp   | Dried oregano
+| 2      | Bell peppers             | 1 tsp   | Garlic powder
+| 1      | Zucchini                 | 1 tsp   | Onion powder
+| 100 g  | Grated parmesan cheese   | 1/2 tsp | Paprika
+| 4 tbsp | Olive oil                | 1/4 tsp | Black pepper
+|===
+
+== Instructions
+[font-family="sans-serif", fontsize="11pt", options="compact"]
+. *Prepare the Vegetables:*
+  .. Wash and cut the cauliflower into florets.
+  .. Thinly slice the red onions.
+  .. Cut the bell peppers into thin strips.
+  .. Slice the zucchini.
+
+. *Seasoning Blend Preparation:*
+  .. In a small bowl, combine the dried oregano, garlic powder, onion powder, paprika, and black pepper. Mix well.
+
+. *Mixing:*
+  .. In a large bowl, combine the prepared vegetables.
+  .. Drizzle the olive oil over the vegetables.
+  .. Sprinkle the seasoning blend and toss until all the vegetables are coated evenly.
+
+. *Baking:*
+  .. Preheat the oven to 200°C.
+  .. Spread the vegetables on a baking tray in a single layer.
+  .. Sprinkle the parmesan cheese on top.
+  .. Place in the oven and roast for 20-25 minutes or until the vegetables are tender and the parmesan is golden brown.
+
+. *Serving:*
+  .. Remove from the oven and let cool slightly.
+  .. Serve warm as a side dish.
