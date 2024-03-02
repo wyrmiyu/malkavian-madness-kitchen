@@ -1,4 +1,5 @@
 = Malkavian Madness Kitchen
+:footer: Copyright © Sandi Wallendahl. This document is licensed under terms available at https://github.com/wyrmiyu/malkavian-madness-kitchen/blob/main/LICENSE. Please check the license before using the content.
 
 Welcome to the Malkavian Madness Kitchen! Here, you can find a variety of delicious recipes — Straight from the Madness Network.
 
