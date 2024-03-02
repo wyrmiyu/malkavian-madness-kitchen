@@ -1,50 +1,48 @@
-Double License for Malkavian Madness Kitchen
+LICENSE for Malkavian Madness Kitchen
 
-This project, "Malkavian Madness Kitchen," authored by Sandi Wallendahl, is
-dual-licensed under the Creative Commons Attribution-ShareAlike 4.0 International
-License (CC BY-SA 4.0) and the GNU General Public License version 3 (GPL-3.0).
-By using, distributing, or contributing to this project, you agree to the terms
-and conditions of both licenses.
+This project, "Malkavian Madness Kitchen", created by Sandi Wallendahl, is dual-licensed
+under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
+and the GNU General Public License v3.0 (GPL-3.0) to accommodate both the non-software and
+software components respectively.
 
-CREATIVE COMMONS ATTRIBUTION-SHAREALIKE 4.0 INTERNATIONAL LICENSE (CC BY-SA 4.0)
+SECTION 1: CREATIVE COMMONS LICENSE (CC BY-SA 4.0) - For Non-Software Content
 
-For any non-software content in this project, including but not limited to
-documentation, graphics, and data, the following license applies:
+All non-software content in this project, unless explicitly stated otherwise, is licensed
+under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy
+of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-Creative Commons Corporation ("Creative Commons") is not a law firm and does not
-provide legal services or legal advice. Distribution of Creative Commons public
-licenses does not create a lawyer-client or other relationship. Creative Commons
-makes its licenses and related information available on an "as-is" basis.
-Creative Commons gives no warranties regarding its licenses, any material
-licensed under their terms and conditions, or any related information.
-Creative Commons disclaims all liability for damages resulting from their use to
-the fullest extent possible.
+Under this license, you are free to:
 
-Using Creative Commons Public Licenses
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
-Creative Commons public licenses provide a standard set of terms and conditions
-that creators and other rights holders may use to share original works of
-authorship and other material subject to copyright and certain other rights
-specified in the public license below. The following text will apply to all
-non-software content in this project.
+for any purpose, even commercially, under the following terms:
 
-See the full text of the CC BY-SA 4.0 license here:
-https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate
+  if changes were made. You may do so in any reasonable manner, but not in any way that
+  suggests the licensor endorses you or your use.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your
+  contributions under the same license as the original.
 
-GNU GENERAL PUBLIC LICENSE VERSION 3 (GPL-3.0)
+SECTION 2: GNU GENERAL PUBLIC LICENSE v3.0 (GPL-3.0) - For Software Content
 
-For all software content in this project, including but not limited to source
-code, binaries, and related materials, the following license applies:
+All software content in this project, including source code, binaries, and documentation,
+unless explicitly stated otherwise, is licensed under the GNU General Public License v3.0.
+To view a copy of this license, visit https://www.gnu.org/licenses/gpl-3.0.html or send a
+letter to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
+02110-1301, USA.
 
-The GNU GPL is a free, copyleft license for software and other kinds of works.
+The GNU GPL-3.0 is a free, copyleft license for software and other kinds of works, which
+permits the following:
 
-The licenses for most software and other practical works are designed to take
-away your freedom to share and change the works. By contrast, the GNU General
-Public License is intended to guarantee your freedom to share and change all
-versions of a program--to make sure it remains free software for all its users.
-We, the Free Software Foundation, use the GNU General Public License for most of
-our software; it applies also to any other work released this way by its
-authors. You can apply it to your programs, too.
+- Freedom to use the work.
+- Freedom to study the work and apply the information.
+- Freedom to redistribute copies.
+- Freedom to distribute derivative works.
 
-See the full text of the GPL-3.0 license here:
-https://www.gnu.org/licenses/gpl-3.0.en.html
+Under this license, the distribution of modified versions of this software is permitted
+under the condition that the modifications are also licensed under the GPL-3.0.
+
+For both licenses, the above copyright notice and this permission notice shall be included
+in all copies or substantial portions of Malkavian Madness Kitchen.
