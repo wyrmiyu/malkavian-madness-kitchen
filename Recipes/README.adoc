@@ -14,5 +14,6 @@ Click on a recipe below to get started.
 * link:./Pear_and_Hazelnut_Oat_Crumble.html[Pear and Hazelnut Oat Crumble]
 * link:./quorn_mango_curry_wok.html[Quorn Mango Curry Wok]
 * link:./spicy_hot_lentil_wok_sauce.html[Spicy Hot Lentil Wok Sauce]
+* link:./Spurdo-Mashed-Soup-Sauce.html[Spurdo Mashed Soup Sauce]
 * link:./Tofu_Parmesan_Bake.html[Tofu Parmesan Bake]
 * link:./vegan_white_chocolate_oatmeal_cookies.html[Vegan White Chocolate Oatmeal Cookies]
